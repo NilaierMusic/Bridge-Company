@@ -8,13 +8,13 @@ To use the script, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/bridge-decay-calculator.git
-   cd bridge-decay-calculator
+   git clone https://github.com/NilaierMusic/Bridge-Company.git
+   cd Bridge-Company
    ```
 
 2. **Run the Script:**
    ```bash
-   python bridge_decay_calculator.py
+   python bridge.py
    ```
    Follow the on-screen prompts to input the number of players, their weights, and whether a giant is present on the bridge.
 
